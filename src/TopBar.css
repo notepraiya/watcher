@@ -1,0 +1,15 @@
+.TopBar {
+  display: flex;
+}
+
+.TopBar-appbar {
+  background-color: var(--blue);
+}
+
+.TopBar-logo {
+  font-size: 2rem;
+}
+
+.TopBar-title {
+  margin-left: 0.8rem;
+}

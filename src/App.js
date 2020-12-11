@@ -1,7 +1,13 @@
 import './App.css';
+import TopBar from './TopBar';
 
 function App() {
-  return <div className="App">Watcher</div>;
+  return (
+    <div className="App">
+      <TopBar />
+      <div className="body"></div>
+    </div>
+  );
 }
 
 export default App;
