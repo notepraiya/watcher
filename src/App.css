@@ -1,9 +1,0 @@
-:root {
-  --blue: #00acee;
-  --salmon: #fa8072;
-}
-
-.App {
-  display: flex;
-  flex-direction: column;
-}
