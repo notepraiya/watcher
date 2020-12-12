@@ -16,6 +16,14 @@ const theme = createMuiTheme({
       },
     },
   },
+  palette: {
+    primary: {
+      main: '#0DD8AB',
+      light: '#36DDB8',
+      dark: '#3A645B',
+      contrastText: '#1A1A1A',
+    },
+  },
   typography: {
     h1: {
       fontFamily: ['Pacifico', 'cursive'].join(','),

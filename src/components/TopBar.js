@@ -7,9 +7,6 @@ const useStyles = makeStyles(theme => ({
   appbar: {
     zIndex: theme.zIndex.drawer + 1,
   },
-  toolbar: {
-    backgroundColor: theme.palette.secondary.main,
-  },
   logo: {
     marginBottom: '-0.8rem',
     height: '4.5rem',
